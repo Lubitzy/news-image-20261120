@@ -1,18 +1,23 @@
 # 20 November 2026 — Six Developments
 
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Lubitzy/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Lubitzy/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 An original illustrated digest of six verified news developments from one day:
 Ukraine, Yemen, COP31, Indonesia–China business MoUs, the WFP funding appeal,
 and US stock-market losses.
 
 ![Selected original news image](assets/entry.png)
 
-## Local status
+## Publication and submission status
 
-The image and entrypoint are local build artifacts, not a submitted make.fun
-entry. GitHub authentication and the repository owner have not been verified.
-The official competition/rank/reward badges and GitHub About must be finalized
-from the current requirements after the real GitHub owner and public repository
-are known. No owner, repository URL, entry ID or server score is invented here.
+Prepared for the public GitHub repository `Lubitzy/news-image-20261120`.
+GitHub authentication has been verified for its owner, `Lubitzy`. The live
+competition, rank and reward badges above refer to that repository; they do
+not assert an accepted entry, a rank or an earned reward. This package has
+not yet been submitted to make.fun. Transcript packaging and the official kit
+checks remain separate pre-submission steps.
 
 Competition: https://make.fun/bounty/news-image-20261120
 
