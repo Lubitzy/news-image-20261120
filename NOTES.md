@@ -1,4 +1,8 @@
-# Editorial notes — 20 November 2026
+# Editorial notes — original six-story edition, 20 November 2026
+
+The current fifteen-story revision is documented in `stories.json`. The notes
+below describe the earlier submitted artwork and are retained as development
+history, not as a claim that the current image still has six panels.
 
 ## Scope and verification
 

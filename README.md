@@ -1,23 +1,23 @@
-# 20 November 2026 — Six Developments
+# 20 November 2026 — Fifteen Developments
 
 [![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![rank](https://make.fun/badge/news-image-20261120/Lubitzy/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/Lubitzy/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-An original illustrated digest of six verified news developments from one day:
-Ukraine, Yemen, COP31, Indonesia–China business MoUs, the WFP funding appeal,
-and US stock-market losses.
+An original illustrated digest of fifteen sourced developments from one day,
+covering Europe, Asia, Africa, Oceania, the Americas, the Middle East and global
+events. Three lead stories, six supporting panels and six attributed briefs
+balance geographic breadth with a clear editorial hierarchy.
 
 ![Selected original news image](assets/entry.png)
 
 ## Publication and submission status
 
-Prepared for the public GitHub repository `Lubitzy/news-image-20261120`.
-GitHub authentication has been verified for its owner, `Lubitzy`. The live
-competition, rank and reward badges above refer to that repository; they do
-not assert an accepted entry, a rank or an earned reward. This package has
-not yet been submitted to make.fun. Transcript packaging and the official kit
-checks remain separate pre-submission steps.
+The public repository is `Lubitzy/news-image-20261120`. An earlier six-story
+version was submitted as `01a1fb98-1a10-774d-9076-e316e284a5fe` and passed the
+server's validity checks. This is the broader editorial revision, not a claim
+that it has a better official score or has won a prize. Live badges refer to
+this repository and may change as judging progresses.
 
 Competition: https://make.fun/bounty/news-image-20261120
 
@@ -53,18 +53,21 @@ Use Python 3.13 to reproduce the recorded runtime test.
 
 ## Artwork and editorial evidence
 
-- `NOTES.md`: the six bounded claims, two independent newsrooms per story,
-  source URLs, attribution and date/uncertainty checks.
-- `DESIGN_REVIEW.md`: three original compositions, pairwise comparisons,
-  retained revisions and the limits of the available inspection tools.
-- `tools/make_image.py`: authored geometric drawing code. Pillow is needed only
-  for optional offline artwork authoring, not to run `main.py`.
-- `assets/entry.png`: the selected, fixed original image.
+- `stories.json`: fifteen concise claims with source URLs, date qualifications
+  and a structural editorial check. Not every story has two independent newsrooms;
+  single-source claims are clearly attributed.
+- `NOTES.md`: the earlier six-story research, retained as development history.
+- `DESIGN_REVIEW.md`: original review and the appended three-way revision comparison.
+- `tools/render_revision.py`: current layout and new original drawing code;
+  `tools/make_image.py` supplies shared geometry and retains the earlier layout.
+  Pillow is needed only to author artwork, not to run `main.py`.
+- `assets/entry.png`: the selected fixed original image.
 
 Optional regeneration with Pillow installed and a supported local font:
 
 ```sh
-python tools/make_image.py --variant all --out-dir ../design-review/rebuilt
+python tools/check_editorial.py stories.json
+python tools/render_revision.py --stories stories.json --variant all --out ../revision-review/rebuilt
 ```
 
 Rendering uses local Arial or DejaVu fonts; no font program, photograph, logo,

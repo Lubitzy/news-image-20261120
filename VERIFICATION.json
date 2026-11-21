@@ -14,17 +14,17 @@
   "independent_runs": 2,
   "runs_byte_identical": true,
   "output_matches_source_asset": true,
-  "sha256": "cff74b610b653628128d59372a08af60572d9cb8f23183f07a2a6c25b5fc624c",
+  "sha256": "1a36355a5b4f1718f5d82b16f850bc7b21f66758a61bd6bf6b4dd68c522d0a72",
   "png": {
     "format": "PNG",
     "width": 1024,
     "height": 1024,
-    "bytes": 307140,
+    "bytes": 425124,
     "bit_depth": 8,
     "color_type": "RGB",
     "all_chunk_crcs_valid": true,
     "image_stream_complete": true,
     "scanline_filters_valid": true,
-    "chunk_count": 7
+    "chunk_count": 9
   }
 }

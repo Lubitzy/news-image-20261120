@@ -42,3 +42,39 @@ The rubric is applied in order: one named day; importance/breadth; understandabl
 - [evidence] SHA-256: `cff74b610b653628128d59372a08af60572d9cb8f23183f07a2a6c25b5fc624c`.
 - [evidence] Initial candidates, 300 px comparisons, native OCR and revision reports are retained outside the entry repo under the sibling `design-review/` directory. They are original development artifacts, not downloaded competitor assets.
 - [assumption] A clearer low-resolution hierarchy is preferable to adding more stories or decorative material. The official judge may weigh pictures and editorial selection differently; no placement or score is predicted.
+
+## Broader editorial revision — three new compositions
+
+The fifteen independently sourced claims are in `stories.json`; seven geographic
+groups are represented (including Global). No competitor artwork or source code
+is used. Public competitor images informed only the earlier gap analysis; their
+facts were not taken as news evidence. Each retained claim has an original
+reporting or primary-document URL and its own date/status qualification.
+
+- A: twelve equal panels. All text fits, but it omits the final three brief items
+  and has little hierarchy; 300px OCR recovers the date but no complete lead.
+- B: three enlarged lead stories, six supporting panels and six short attributed
+  briefs. After revision, 300px OCR recovers the date and all three lead headlines.
+  Every panel's body clears its source label by at least 10px.
+- C: two large leads, eight narrower panels and five briefs. It covers the same
+  fifteen claims, but some supporting labels must be smaller and the narrow panels
+  have only 7px minimum body/source clearance. Its two leads survive 300px OCR.
+
+Pairwise judgment (editorial self-assessment, not an official local grade):
+B beats A on breadth and lead hierarchy; B beats C on balanced treatment of the
+three principal topics and safer supporting-panel spacing; C beats A on breadth
+and hierarchy but is less comfortable for narrow-panel text. All use the same
+named day and bounded claims. B is selected. The weakness remains that most
+secondary text cannot be recovered by OCR at 300px; perfect small-size readability
+or visual interpretation of the pictograms is not claimed.
+
+Selection was made after real rendering and local native/300px OCR. The earlier
+remote vision denial remains a limitation; no human-like aesthetic inspection or
+sealed production-judge result is invented. Pixel bounds, textual overflow and
+source clearances were checked by the renderer; unknown illustration-recognition
+quality remains an uncertainty.
+
+Selected revision B: 1024 by 1024 PNG, 425124 bytes;
+SHA-256 `1a36355a5b4f1718f5d82b16f850bc7b21f66758a61bd6bf6b4dd68c522d0a72`.
+The previous 307140-byte entry and all candidate/review artifacts remain outside
+the repo. Runtime determinism is checked separately in `VERIFICATION.json`.

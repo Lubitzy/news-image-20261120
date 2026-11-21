@@ -1,0 +1,342 @@
+[
+  {
+    "id": "ukraine",
+    "region": "EUROPE / UKRAINE",
+    "geography": "Europe",
+    "key": "bridge",
+    "title": "Kyiv bridges hit",
+    "deck": "Russian strikes hit three bridges and power sites. Officials report 8 killed across Ukraine.",
+    "brief": "Russian strikes hit Kyiv bridges and power sites; officials report 8 dead nationwide.",
+    "sources": "Reuters / AP",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/",
+        "publication_date": "2026-11-20",
+        "supports": "Three bridges hit, electricity facilities targeted and eight deaths nationwide, attributed."
+      }
+    ],
+    "brief_source": "Reuters"
+  },
+  {
+    "id": "akvan",
+    "region": "ASIA / INDIA",
+    "geography": "Asia",
+    "key": "storm",
+    "title": "Akvan makes landfall",
+    "deck": "Near Gopalpur, India: winds 70–80 km/h at landfall, the weather office reports.",
+    "brief": "Cyclone Akvan crosses near Gopalpur; observed winds 70–80 km/h.",
+    "sources": "IMD / Indian Express",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://rsmcnewdelhi.imd.gov.in/uploads/archive/5/5_83723282f7ed1c8a0969.pdf",
+        "publication_date": "2026-11-20",
+        "supports": "Observed crossing 02:00–03:00 UTC on 20 November; official winds 70–80 km/h, not earlier forecast."
+      },
+      {
+        "url": "https://indianexpress.com/article/india/cyclone-akvan-odisha-gopalpur-landfall-casualties-evacuation-10971128/",
+        "publication_date": "2026-11-20",
+        "supports": "Observed crossing 02:00–03:00 UTC on 20 November; official winds 70–80 km/h, not earlier forecast."
+      }
+    ],
+    "brief_source": "IMD"
+  },
+  {
+    "id": "global-markets",
+    "region": "WORLD / MARKETS",
+    "geography": "Global",
+    "key": "markets",
+    "title": "Tech sell-off spreads",
+    "deck": "Friday closes: Nikkei -5.06%; Nasdaq -5.3%; S&P 500 -3.7%.",
+    "brief": "Friday closes: Nikkei -5.06%, Nasdaq -5.3%, S&P 500 -3.7%.",
+    "sources": "Reuters / AP",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-global-markets-2026-11-20/",
+        "publication_date": "2026-11-20",
+        "supports": "Actual Friday closing changes, distinct from intraday lows and weekly drops."
+      },
+      {
+        "url": "https://www.wtsp.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-friday-11202026/616-ddb71432-40dc-428c-97d9-7f706955d9e8",
+        "publication_date": "2026-11-20",
+        "supports": "Actual Friday closing changes, distinct from intraday lows and weekly drops."
+      }
+    ],
+    "brief_source": "Reuters"
+  },
+  {
+    "id": "cop31",
+    "region": "GLOBAL / CLIMATE",
+    "geography": "Global",
+    "key": "climate",
+    "title": "COP31 in overtime",
+    "deck": "Antalya talks run past Friday deadline. Draft omits fossil fuels; no final deal yet.",
+    "brief": "COP31 goes into overtime without a deal; the draft omits fossil fuels.",
+    "sources": "AFP / Guardian",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.afp.com/en/nations-row-over-fossil-fuels-cop31-goes-overtime",
+        "publication_date": "2026-11-20",
+        "supports": "20:42 report: official finish passed, political deal unresolved and draft omits fossil fuels."
+      }
+    ],
+    "brief_source": "AFP"
+  },
+  {
+    "id": "uk-eu",
+    "region": "EUROPE / DIPLOMACY",
+    "geography": "Europe",
+    "key": "diplomacy",
+    "title": "UK–EU reset agreed",
+    "deck": "Food trade, youth mobility and carbon-market links agreed; implementation lies ahead.",
+    "brief": "UK–EU summit agrees food trade, youth mobility and carbon-market links.",
+    "sources": "UK–EU / Reuters",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-joint-statement-html",
+        "publication_date": "2026-11-20",
+        "supports": "Summit on 20 November concluded talks; not already in-force policies."
+      },
+      {
+        "url": "https://live.euronext.com/en/financial-news/uk-eu-reset-deal-agreed-downing-street-says",
+        "publication_date": "2026-11-20",
+        "supports": "Summit on 20 November concluded talks; not already in-force policies."
+      }
+    ],
+    "brief_source": "UK–EU"
+  },
+  {
+    "id": "wfp",
+    "region": "GLOBAL / FOOD AID",
+    "geography": "Global",
+    "key": "food",
+    "title": "Food aid funding gap",
+    "deck": "WFP seeks $12bn-plus to assist 91 million people in 2027. This is a funding appeal.",
+    "brief": "WFP seeks $12bn-plus for a 2027 plan to assist 91 million people.",
+    "sources": "WFP / Reuters",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.wfp.org/news/world-food-programme-sets-out-2027-plan-assist-91-million-people-need-food-crisis-looms",
+        "publication_date": "2026-11-20",
+        "supports": "WFP announces 91 million people target for next year, just over USD12 billion required."
+      }
+    ],
+    "brief_source": "WFP"
+  },
+  {
+    "id": "malawi",
+    "region": "AFRICA / MALAWI",
+    "geography": "Africa",
+    "key": "fuel",
+    "title": "Fuel queues grow",
+    "deck": "Motorists wait hours or overnight as shortages disrupt daily life, Al Jazeera reports.",
+    "brief": "Malawi: fuel shortages bring hours-long and overnight queues.",
+    "sources": "Al Jazeera",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos",
+        "publication_date": "2026-11-20",
+        "supports": "Original reporting published 20 November of ongoing disruption; no unverified violent-video claim."
+      }
+    ],
+    "brief_source": "Al Jazeera"
+  },
+  {
+    "id": "nz-cricket",
+    "region": "OCEANIA / SPORT",
+    "geography": "Oceania",
+    "key": "sport",
+    "title": "Phillips hits 118",
+    "deck": "Wellington: his 216-run stand with Nicholls lifts New Zealand to 368 against India.",
+    "brief": "New Zealand posts 368; Phillips 118 and Nicholls 175 not out.",
+    "sources": "Reuters / AP",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.brecorder.com/news/40449960/india-bat-their-way-back-into-first-test-after-nicholls-phillips-shine-for-nz",
+        "publication_date": "2026-11-20",
+        "supports": "Day 2 Friday in Wellington. Do not claim New Zealand won an unfinished Test."
+      },
+      {
+        "url": "https://sports.yahoo.com/articles/phillips-118-zealand-reaches-317-002002527.html",
+        "publication_date": "2026-11-20",
+        "supports": "Day 2 Friday in Wellington. Do not claim New Zealand won an unfinished Test."
+      }
+    ],
+    "brief_source": "Reuters"
+  },
+  {
+    "id": "roundup",
+    "region": "AMERICAS / US COURTS",
+    "geography": "Americas",
+    "key": "science",
+    "title": "Roundup deal approved",
+    "deck": "Missouri judge approves up to $7.25bn to settle cancer claims; Bayer denies causation.",
+    "brief": "US judge approves up to $7.25bn Roundup cancer-claims settlement.",
+    "sources": "AP",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://apnews.com/article/bayer-monsanto-roundup-weedkiller-cancer-settlement-075b547ed70802082466ce1fb08773d0",
+        "publication_date": "2026-11-20",
+        "supports": "Friday judicial approval of settlement, not judicial conclusion of general cancer causation."
+      }
+    ],
+    "brief_source": "AP"
+  },
+  {
+    "id": "yemen",
+    "region": "MIDEAST / YEMEN",
+    "geography": "Middle East",
+    "key": "port",
+    "title": "Hodeidah port struck",
+    "deck": "Saudi-led coalition says it hit Houthi capabilities at the Red Sea aid gateway.",
+    "brief": "Saudi-led coalition says it struck Hodeidah port in Yemen.",
+    "sources": "Reuters / AP",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/middle-east/yemens-houthis-threaten-strike-saudi-red-sea-ports-2026-11-20/",
+        "publication_date": "2026-11-20",
+        "supports": "Coalition statement of Friday strikes on Hodeidah, a main food and supplies port."
+      }
+    ],
+    "brief_source": "Reuters"
+  },
+  {
+    "id": "kenya",
+    "region": "AFRICA / KENYA",
+    "geography": "Africa",
+    "key": "energy",
+    "title": "Turkana drilling starts",
+    "deck": "Kenya launches production-well drilling at Amosing; oil exports are a future target.",
+    "brief": "Kenya launches production-well drilling in Turkana; exports still ahead.",
+    "sources": "The Star / KBC",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.the-star.co.ke/news/2026-11-20-kenya-begins-production-drilling-at-turkana-oilfields",
+        "publication_date": "2026-11-20",
+        "supports": "Spudding ceremony Friday; not first oil well in Kenyan history or achieved export flow."
+      },
+      {
+        "url": "https://www.kbc.co.ke/kenya-begins-ksh-774b-commercial-oil-production-in-south-lokichar/",
+        "publication_date": "2026-11-20",
+        "supports": "Spudding ceremony Friday; not first oil well in Kenyan history or achieved export flow."
+      }
+    ],
+    "brief_source": "The Star"
+  },
+  {
+    "id": "china-australia",
+    "region": "ASIA–PACIFIC / TALKS",
+    "geography": "Oceania",
+    "key": "diplomacy",
+    "title": "Xi and Albanese meet",
+    "deck": "Shenzhen talks aim to deepen cooperation; differences remain, the leaders say.",
+    "brief": "Xi and Albanese meet in Shenzhen; cooperation and differences discussed.",
+    "sources": "ABC / Reuters",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.abc.net.au/news/2026-11-20/albanese-to-meet-xi-for-trade/107406222",
+        "publication_date": "2026-11-20",
+        "supports": "Friday meeting, not copied Thursday summit declaration; subjective turnaround quote not declared fact."
+      },
+      {
+        "url": "https://www.reuters.com/world/china/xi-hails-comprehensive-turnaround-china-australia-ties-2026-11-20",
+        "publication_date": "2026-11-20",
+        "supports": "Friday meeting, not copied Thursday summit declaration; subjective turnaround quote not declared fact."
+      }
+    ],
+    "brief_source": "ABC"
+  },
+  {
+    "id": "japan-cpi",
+    "region": "ASIA / JAPAN",
+    "geography": "Asia",
+    "key": "location",
+    "title": "Core inflation: 2.2%",
+    "deck": "October prices excluding fresh food rose 2.2% year-on-year; data released Friday.",
+    "brief": "Japan releases October core CPI: +2.2% year-on-year, excluding fresh food.",
+    "sources": "Reuters / Statistics Japan",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.investing.com/news/economic-indicators/japan-oct-core-cpi-rises-22-yryr-5040343",
+        "publication_date": "2026-11-20",
+        "supports": "October period, November 20 release; 2.2% core not 2.3% headline/forecast."
+      },
+      {
+        "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000357.html",
+        "publication_date": "2026-11-20",
+        "supports": "October period, November 20 release; 2.2% core not 2.3% headline/forecast."
+      }
+    ],
+    "brief_source": "Reuters"
+  },
+  {
+    "id": "trade",
+    "region": "ASIA / TRADE",
+    "geography": "Asia",
+    "key": "trade",
+    "title": "$15bn in trade MoUs",
+    "deck": "Indonesian and Chinese firms sign 35 MoUs in Shenzhen; commitments, not cash already invested.",
+    "brief": "Indonesia–China business forum: 35 MoUs worth $15bn, not completed investment.",
+    "sources": "ANTARA / Reuters",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://en.antaranews.com/news/444147/indonesia-china-secure-us15-billion-deal-in-mou-agreements",
+        "publication_date": "2026-11-20",
+        "supports": "35 MoUs signed Friday at the Indonesia–China Business Forum worth US$15bn."
+      }
+    ],
+    "brief_source": "ANTARA"
+  },
+  {
+    "id": "europe-protests",
+    "region": "EUROPE / SOCIETY",
+    "geography": "Europe",
+    "key": "location",
+    "title": "Students take to streets",
+    "deck": "Friday protests span Europe, with varied demands on education, climate and conscription.",
+    "brief": "European youth protests raise education, climate and conscription demands.",
+    "sources": "Reuters / AP",
+    "event_date": "2026-11-20",
+    "verified": true,
+    "evidence": [
+      {
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/student-protests-held-across-europe-with-demands-school-funding-climate-2026-11-20/",
+        "publication_date": "2026-11-20",
+        "supports": "Reported Friday demonstrations, varied demands, no unverified uniform count claim."
+      },
+      {
+        "url": "https://apnews.com/article/italy-europe-protests-strike-workers-students-inflation-8a742daa7242c84d99307c1fcc864f62",
+        "publication_date": "2026-11-20",
+        "supports": "Reported Friday demonstrations, varied demands, no unverified uniform count claim."
+      }
+    ],
+    "brief_source": "Reuters"
+  }
+]
